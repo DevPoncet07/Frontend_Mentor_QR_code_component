@@ -26,7 +26,7 @@ img{
     border-radius:1rem;
 }
 
-b{
+h1{
     font-weight: 700;
     color:var(--b-color);
     margin-top: 1rem;
