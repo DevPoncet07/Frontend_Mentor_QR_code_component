@@ -18,7 +18,7 @@ body{
     background-color: white;
     text-align: center;
     font-family: "Outfit";
-    box-shadow:0px 5px 15px -15px black ;
+    box-shadow:0px 30px 30px -30px rgba(0, 0, 0, 0.26) ;
 }
 
 img{
