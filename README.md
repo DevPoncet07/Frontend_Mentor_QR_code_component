@@ -41,6 +41,5 @@ PONCET Adrien
 - Frontend Mentor - [@DevPoncet07](https://www.frontendmentor.io/profile/DevPoncet07)
 - LinkedIn - [Adrien PONCET](www.linkedin.com/in/adrien-poncet)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
